@@ -1,3 +1,4 @@
+
 @import 'https://fonts.googleapis.com/css?family=Monda';
 @import 'https://fonts.googleapis.com/css?family=Rubik+Mono+One';
 @import "https://fonts.googleapis.com/css?family=Rubik+Mono+One";
@@ -39,7 +40,7 @@ body {
   width: 100%;
   height: 100vh;
   margin: 0;
-  background: url("https://hd.unsplash.com/photo-1452533006997-88feb60941a0");
+  background: url("../images/museum.jpg");
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center bottom;
@@ -63,12 +64,6 @@ body {
 
 
 /*end titletry1*/
-
-
-
-
-
-
 
 
 
@@ -540,11 +535,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 	z-index: 100;
 	text-decoration: none;
 	text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.4);
-
 }
-
-
-
 .scroll4{
 	background-image: url(../images/scrollsmall.png);
 	background-size: contain;
@@ -562,11 +553,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 	z-index: 100;
 	text-decoration: none;
 	text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.4);
-
 }
-
-
-
 .scroll5{
 	background-image: url(../images/scrollsmall.png);
 	background-size: contain;
@@ -584,10 +571,7 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 	z-index: 100;
 	text-decoration: none;
 	text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.4);
-
 }
-
-
 .scroll6{
 	background-image: url(../images/scrollsmall.png);
 	background-size: contain;
@@ -605,7 +589,6 @@ html body [data-ca3_iconfont="ETmodules"]::before {
 	z-index: 100;
 	text-decoration: none;
 	text-shadow: 0px 0px 3px rgba(0, 0, 0, 0.4);
-
 }
 */
 
@@ -686,9 +669,3 @@ footer {
 	padding: 70px 200px 50px 610px;
 
 }
-
-
-
-
-
-
