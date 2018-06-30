@@ -362,7 +362,7 @@ div #box6{
 
 
 span {
-	color: grey;
+	color: white;
 	animation: blur 8s ease-out infinite;
 	-webkit-animation: blur 8s ease-out infinite;
 }
